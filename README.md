@@ -4,7 +4,7 @@
 ## spider框架
 主要修改spider文件，在此文件下设计自己的爬虫，pipeline文件中设计一些处理，setting文件中进行一些设置。  
 ## 汽车车型类别收集
-爬虫名：car_list
+爬虫名：car_list  
 `car_class_list_spider.py`是对所有车型类别的收集，搜索所有字母开头的车型并保存。  
 ## 汽车车型数据收集
 爬虫名：car_entity  
